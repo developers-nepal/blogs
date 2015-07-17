@@ -9,6 +9,7 @@ Notes
 Links
 ---------
 
+* [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
 * [Cafe Codes](http://cafecod.es/)
 * [Digamber Pradhan](http://www.digamberpradhan.com.np/)
 * [Geshan Manandhar](http://www.geshan.com.np/)
