@@ -9,6 +9,7 @@ Notes
 Links
 ---------
 
+* [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
 * [Cafe Codes](http://cafecod.es/)
 * [Digamber Pradhan](http://www.digamberpradhan.com.np/)
 * [Jeevan Chapagain](http://www.jeevanchapagain.com.np/)
@@ -16,4 +17,3 @@ Links
 * [Pradip Kharbuja](http://www.pradipkharbuja.com.np/)
 * [Techgaun Samar](http://samar.techgaun.com/)
 * [Umesh Ghimire](http://blog.umeshghimire.com.np/)
-* [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
