@@ -9,6 +9,7 @@ Notes
 Links
 ---------
 
+* [Amit Chaudhary](http://www.studenton.com)
 * [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
 * [Cafe Codes](http://cafecod.es/)
 * [Digamber Pradhan](http://www.digamberpradhan.com.np/)
