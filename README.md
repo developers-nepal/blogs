@@ -9,6 +9,7 @@ Notes
 Links
 ---------
 
+* [Sandip Bhagat](http://sandipbgt.github.io)
 * [Amit Chaudhary](http://www.studenton.com)
 * [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
 * [Cafe Codes](http://cafecod.es/)
