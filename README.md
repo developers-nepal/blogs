@@ -9,7 +9,6 @@ Notes
 Links
 ---------
 
-* [Sandip Bhagat](http://sandipbgt.github.io)
 * [Amit Chaudhary](http://www.studenton.com)
 * [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
 * [Cafe Codes](http://cafecod.es/)
@@ -18,5 +17,6 @@ Links
 * [Jeevan Chapagain](http://www.jeevanchapagain.com.np/)
 * [Lakshman Basnet](http://www.lakshmanbasnet.com.np/)
 * [Pradip Kharbuja](http://www.pradipkharbuja.com.np/)
+* [Sandip Bhagat](http://sandipbgt.github.io)
 * [Techgaun Samar](http://samar.techgaun.com/)
 * [Umesh Ghimire](http://blog.umeshghimire.com.np/)
