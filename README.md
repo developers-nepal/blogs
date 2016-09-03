@@ -1,13 +1,12 @@
 # Tech Blogs
 Repo enlisting various blogs from Nepalese tech enthusiasts, geeks and hackers
 
-Notes
----------
+## Notes
+
 - If you wish to add your blog in the list, please send a pull request by adding your tech blog.
 - Please maintain the alphabetical order
 
-Links
----------
+## Links
 
 * [Amit Chaudhary](http://www.studenton.com)
 * [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
@@ -17,6 +16,7 @@ Links
 * [Jeevan Chapagain](http://www.jeevanchapagain.com.np/)
 * [Lakshman Basnet](http://www.lakshmanbasnet.com.np/)
 * [Pradip Kharbuja](http://www.pradipkharbuja.com.np/)
+* [Samundra Shrestha](http://www.samundra.com.np)
 * [Sandip Bhagat](http://sandipbgt.github.io)
 * [Techgaun Samar](http://samar.techgaun.com/)
 * [Umesh Ghimire](http://blog.umeshghimire.com.np/)
