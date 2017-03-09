@@ -11,6 +11,7 @@ Repo enlisting various blogs from Nepalese tech enthusiasts, geeks and hackers
 * [Amit Chaudhary](http://www.studenton.com)
 * [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
 * [Cafe Codes](http://cafecod.es/)
+* [Competenepal](https://competenepal.com)
 * [Digamber Pradhan](http://www.digamberpradhan.com.np/)
 * [Geshan Manandhar](http://www.geshan.com.np/)
 * [Jeevan Chapagain](http://www.jeevanchapagain.com.np/)
