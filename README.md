@@ -1,4 +1,5 @@
-# Tech Blogs
+# Tech Blogs [![Build Status](https://travis-ci.org/developers-nepal/blogs.svg?branch=master)](https://travis-ci.org/developers-nepal/blogs)
+
 Repo enlisting various blogs from Nepalese tech enthusiasts, geeks and hackers
 
 ## Notes
@@ -8,17 +9,15 @@ Repo enlisting various blogs from Nepalese tech enthusiasts, geeks and hackers
 
 ## Links
 
-* [Amit Chaudhary](http://www.studenton.com)
-* [Ankit Pokhrel](http://ankitpokhrel.com.np/blog)
-* [Cafe Codes](http://cafecod.es/)
+* [Amit Chaudhary](https://studenton.com/)
+* [Ankit Pokhrel](https://ankitpokhrel.com/explore/)
 * [Competenepal](https://competenepal.com)
 * [Digamber Pradhan](http://www.digamberpradhan.com.np/)
-* [Geshan Manandhar](http://www.geshan.com.np/)
+* [Geshan Manandhar](https://geshan.com.np/)
 * [Jeevan Chapagain](http://www.jeevanchapagain.com.np/)
-* [Lakshman Basnet](http://www.lakshmanbasnet.com.np/)
 * [Pradip Kharbuja](http://www.pradipkharbuja.com.np/)
 * [Ramesh Syangtan](https://medium.com/@rameshsyn)
 * [Samundra Shrestha](http://www.samundra.com.np)
-* [Sandip Bhagat](http://sandipbgt.github.io)
-* [Techgaun Samar](http://samar.techgaun.com/)
+* [Sandip Bhagat](http://sandipbgt.com/)
+* [Techgaun Samar](http://www.techgaun.com/)
 * [Umesh Ghimire](http://blog.umeshghimire.com.np/)
