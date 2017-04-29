@@ -9,7 +9,7 @@ Repo enlisting various blogs from Nepalese tech enthusiasts, geeks and hackers
 
 ## Links
 
-* [Amit Chaudhary](https://studenton.com/)
+* [Amit Chaudhary](https://amitness.com/)
 * [Ankit Pokhrel](https://ankitpokhrel.com/explore/)
 * [Competenepal](https://competenepal.com)
 * [Digamber Pradhan](http://www.digamberpradhan.com.np/)
