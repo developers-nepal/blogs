@@ -19,5 +19,6 @@ Repo enlisting various blogs from Nepalese tech enthusiasts, geeks and hackers
 * [Ramesh Syangtan](https://medium.com/@rameshsyn)
 * [Samundra Shrestha](http://www.samundra.com.np)
 * [Sandip Bhagat](http://sandipbgt.com/)
+* [Shiva Bhusal](https://cbabhusal.wordpress.com/) / [Medium](https://medium.com/@_illusionist_/)
 * [Techgaun Samar](http://www.techgaun.com/)
 * [Umesh Ghimire](http://blog.umeshghimire.com.np/)
