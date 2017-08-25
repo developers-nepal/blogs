@@ -21,4 +21,5 @@ Repo enlisting various blogs from Nepalese tech enthusiasts, geeks and hackers
 * [Sandip Bhagat](http://sandipbgt.com/)
 * [Shiva Bhusal](https://cbabhusal.wordpress.com/) / [Medium](https://medium.com/@_illusionist_/)
 * [Techgaun Samar](http://www.techgaun.com/)
+* [TechJhola](https://www.techjhola.com/)
 * [Umesh Ghimire](http://blog.umeshghimire.com.np/)
