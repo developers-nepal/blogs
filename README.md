@@ -12,6 +12,7 @@ Repo enlisting various blogs from Nepalese tech enthusiasts, geeks and hackers
 * [Amit Chaudhary](https://amitness.com/)
 * [Ankit Pokhrel](https://ankitpokhrel.com/explore/)
 * [Binod Jung Bogati](https://bjungbogati.com/)
+* [Bishaw Kumar Shrestha](http://bks.com.np/)
 * [Competenepal](https://competenepal.com)
 * [Digamber Pradhan](https://www.digamberpradhan.com/)
 * [Diwash Shrestha](https://diwashrestha.com/)
