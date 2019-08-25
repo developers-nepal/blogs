@@ -21,6 +21,7 @@ Repo enlisting various blogs from Nepalese tech enthusiasts, geeks and hackers
 * [Milap Neupane](https://medium.com/@milapneupane)
 * [Pradip Kharbuja](http://www.pradipkharbuja.com.np/)
 * [Ramesh Syangtan](https://medium.com/@rameshsyn)
+* [Ravi Garbuja Pun](https://medium.com/@cbpmgr)
 * [Samundra Shrestha](https://www.samundra.com.np/)
 * [Sandip Bhagat](http://sandipbgt.com/)
 * [Shiva Bhusal](https://cbabhusal.wordpress.com/) / [Medium](https://medium.com/@_illusionist_/)
