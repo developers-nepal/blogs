@@ -18,7 +18,7 @@ Repo enlisting various blogs from Nepalese tech enthusiasts, geeks and hackers
 * [Diwash Shrestha](https://diwashrestha.com/)
 * [Geshan Manandhar](https://geshan.com.np/)
 * [Jeevan Chapagain](https://jeevanchapagain.com.np/blog/)
-* [Milap Neupane](http://milapneupane.com.np/)
+* [Milap Neupane](https://milapneupane.com.np/)
 * [Pradip Kharbuja](http://www.pradipkharbuja.com.np/)
 * [Ramesh Syangtan](https://medium.com/@rameshsyn)
 * [Ravi Garbuja Pun](https://medium.com/@cbpmgr)
