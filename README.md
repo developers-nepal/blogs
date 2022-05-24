@@ -23,5 +23,6 @@ Repo enlisting various blogs from Nepalese tech enthusiasts, geeks and hackers
 * [Samundra Shrestha](https://www.samundra.com.np/)
 * [Sandip Bhagat](http://sandipbgt.com/)
 * [Shiva Bhusal](https://cbabhusal.wordpress.com/) / [Medium](https://medium.com/@_illusionist_)
+* [Suman Kunwar](https://medium.com/@sumn2u)
 * [Techgaun Samar](http://www.techgaun.com/)
 * [Utsav Ratna Tuladhar](http://utsavratna33.azurewebsites.net)
