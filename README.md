@@ -10,6 +10,7 @@ Repo enlisting various blogs from Nepalese tech enthusiasts, geeks and hackers
 ## Links
 
 * [Amit Chaudhary](https://amitness.com/)
+* [Ankit Poudel](https://www.ankit-poudel.com.np/)
 * [Bipin Paul](https://bipinpaul.com/)
 * [Digamber Pradhan](https://www.digamberpradhan.com/)
 * [Geshan Manandhar](https://geshan.com.np/)
