@@ -21,6 +21,7 @@ Repo enlisting various blogs from Nepalese tech enthusiasts, geeks and hackers
 * [Ravi Garbuja Pun](https://medium.com/@cbpmgr)
 * [Sachin Rai](https://raisachin.com.np)
 * [Sagar Giri](https://girisagar46.github.io/)
+* [Sangam Shrestha](https://sangams.com.np/)
 * [Samundra Shrestha](https://www.samundra.com.np/)
 * [Sandip Bhagat](http://sandipbgt.com/)
 * [Shiva Bhusal](https://cbabhusal.wordpress.com/) / [Medium](https://medium.com/@_illusionist_)
